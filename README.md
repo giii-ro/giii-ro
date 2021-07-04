@@ -1,1 +1,1 @@
-![extra1563's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=extra1563)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{extra1563})
